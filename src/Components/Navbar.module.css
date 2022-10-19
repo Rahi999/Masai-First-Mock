@@ -1,0 +1,23 @@
+.nav {
+  justify-content: space-evenly;
+  padding: 20px;
+  position: relative;
+}
+.nav1 {
+  position: fixed;
+  border: 1px solid grey;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #a84c91;
+  width: "80%";
+  margin: auto;
+}
+a {
+  color: black;
+  text-decoration: none;
+  margin-left: 80px;
+  font-size: 20px;
+}
+a:hover {
+  color: #77d5d8;
+}

@@ -1,0 +1,15 @@
+.div2 {
+  width: "150px";
+  margin: auto;
+  margin-top: 20px;
+}
+.div2:hover {
+  margin-left: 50px;
+  color: teal;
+}
+
+a:hover {
+  color: teal;
+  font-weight: bold;
+  font-size: 22px;
+}
