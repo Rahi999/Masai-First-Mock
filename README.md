@@ -5,3 +5,18 @@
 <ul>
   <li>Rahim Ansari(Individual)</li>
 </ul>
+<h3>Tech Stacks : </h3>
+<ul>
+  <li>React</li>
+  <li>Redux</li>
+  <li>Redux-thunk</li>
+  <li>Styled-Components</li>
+  <li>Chakra-Ui</li>
+  <li>Heroku-Server</li>
+  <li>NPM</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Netlify</li>
+  <li>Vercel</li>
+  
+</ul>
